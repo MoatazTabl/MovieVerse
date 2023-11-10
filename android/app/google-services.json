@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "355021796384",
+    "project_id": "movies-b610c",
+    "storage_bucket": "movies-b610c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355021796384:android:fbc86e8bb17bc8c0bd3845",
+        "android_client_info": {
+          "package_name": "com.example.moives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355021796384-nebmeorll9amvb1l0c5bsibeo0tnbtl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moives",
+            "certificate_hash": "731cebcfe83779ba684e7a7dc8fb989ba467e0f2"
+          }
+        },
+        {
+          "client_id": "355021796384-nv42qr1licfc5q3uega803d6a4jf2eho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrN7N3mvAJDxM903M0JgJqvJF7n-RRyMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355021796384-nv42qr1licfc5q3uega803d6a4jf2eho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355021796384-hhicd1kb0oc1gnmpbe1rsagjtl6k3503.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moives"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
